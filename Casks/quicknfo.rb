@@ -1,6 +1,6 @@
 cask "quicknfo" do
   version "2.0.0"
-  sha256 "REPLACE_WITH_ACTUAL_SHA256_AFTER_FIRST_RELEASE"
+  sha256 "ee43be6501fd2dd1bb78cd7ac0d8ad9f5c0e09f67de2aca3d112a5301ee9ad87"
 
   url "https://github.com/vigo/QuickNFO/releases/download/v#{version}/QuickNFO-v#{version}.zip"
   name "QuickNFO"
