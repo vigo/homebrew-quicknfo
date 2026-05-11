@@ -1,7 +1,3 @@
-[![brew test-bot](https://github.com/vigo/homebrew-quicknfo/actions/workflows/tests.yml/badge.svg)](https://github.com/vigo/homebrew-quicknfo/actions/workflows/tests.yml)
-[![brew pr-pull](https://github.com/vigo/homebrew-quicknfo/actions/workflows/publish.yml/badge.svg)](https://github.com/vigo/homebrew-quicknfo/actions/workflows/publish.yml)
-
-
 # homebrew-quicknfo
 
 Homebrew tap for [QuickNFO](https://github.com/vigo/QuickNFO) — macOS
