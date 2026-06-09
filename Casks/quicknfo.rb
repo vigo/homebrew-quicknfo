@@ -7,7 +7,7 @@ cask "quicknfo" do
   desc "QuickLook preview extension for NFO files"
   homepage "https://github.com/vigo/QuickNFO"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "QuickNFO.app"
 
