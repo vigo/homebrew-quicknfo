@@ -11,7 +11,7 @@ cask "quicknfo" do
 
   app "QuickNFO.app"
 
-  postflight do
+  postflight_steps do
     system_command "/usr/bin/xattr",
                    args: ["-cr", "#{appdir}/QuickNFO.app"]
   end
